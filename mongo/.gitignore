@@ -1,0 +1,5 @@
+# Ignore Eclipse maintained files
+.classpath
+.settings/
+/target/
+/bin/
